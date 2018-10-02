@@ -2,3 +2,7 @@
 bin/
 build/
 out/
+lib/
+.classpath
+.settings/
+.project
